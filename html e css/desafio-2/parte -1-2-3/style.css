@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: #000000;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: center;
+}
+
+.div1 {
+    background-color: red;
+}
+
+.div2 {
+    background-color: aqua;
+}
+
+.div3 {
+    background-color: green;
+}
